@@ -1,5 +1,5 @@
 body {
-    background-image: url(background.jpg);
+    background-image: url(images/background.jpg);
     font-family: sans-serif;
     padding: 20px;
 }
@@ -25,7 +25,7 @@ h1, h2, p {
 
 .menu {
     width: 80%;
-    background-color: #ff52f3;
+    background-color: #b823ae;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -37,6 +37,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 50px;
+    height: 50px;
 }
 
 
