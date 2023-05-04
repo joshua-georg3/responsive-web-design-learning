@@ -6,6 +6,7 @@ body {
     color: #f5f6f7;
     font-family: Tahoma;
     font-size: 16px;
+    padding-top: 30px;
   }
   
   h1, p {
@@ -76,3 +77,13 @@ body {
   
   }
   
+  .reg-form {
+    width: 80%;
+    background-color: #657889;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    height: 150%
+
+  }
